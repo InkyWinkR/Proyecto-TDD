@@ -1,0 +1,12 @@
+C:\Users\ramir\GitU\Proyecto-TDD\TDD_HoraSolar_NUnit\HoraSolarLib\bin\Debug\net9.0\HoraSolarLib.deps.json
+C:\Users\ramir\GitU\Proyecto-TDD\TDD_HoraSolar_NUnit\HoraSolarLib\bin\Debug\net9.0\HoraSolarLib.dll
+C:\Users\ramir\GitU\Proyecto-TDD\TDD_HoraSolar_NUnit\HoraSolarLib\bin\Debug\net9.0\HoraSolarLib.pdb
+C:\Users\ramir\GitU\Proyecto-TDD\TDD_HoraSolar_NUnit\HoraSolarLib\obj\Debug\net9.0\HoraSolarLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramir\GitU\Proyecto-TDD\TDD_HoraSolar_NUnit\HoraSolarLib\obj\Debug\net9.0\HoraSolarLib.AssemblyInfoInputs.cache
+C:\Users\ramir\GitU\Proyecto-TDD\TDD_HoraSolar_NUnit\HoraSolarLib\obj\Debug\net9.0\HoraSolarLib.AssemblyInfo.cs
+C:\Users\ramir\GitU\Proyecto-TDD\TDD_HoraSolar_NUnit\HoraSolarLib\obj\Debug\net9.0\HoraSolarLib.csproj.CoreCompileInputs.cache
+C:\Users\ramir\GitU\Proyecto-TDD\TDD_HoraSolar_NUnit\HoraSolarLib\obj\Debug\net9.0\HoraSolarLib.sourcelink.json
+C:\Users\ramir\GitU\Proyecto-TDD\TDD_HoraSolar_NUnit\HoraSolarLib\obj\Debug\net9.0\HoraSolarLib.dll
+C:\Users\ramir\GitU\Proyecto-TDD\TDD_HoraSolar_NUnit\HoraSolarLib\obj\Debug\net9.0\refint\HoraSolarLib.dll
+C:\Users\ramir\GitU\Proyecto-TDD\TDD_HoraSolar_NUnit\HoraSolarLib\obj\Debug\net9.0\HoraSolarLib.pdb
+C:\Users\ramir\GitU\Proyecto-TDD\TDD_HoraSolar_NUnit\HoraSolarLib\obj\Debug\net9.0\ref\HoraSolarLib.dll
