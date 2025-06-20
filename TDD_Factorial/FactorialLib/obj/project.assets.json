@@ -8,23 +8,23 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ramir\\.nuget\\packages\\": {},
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ramir\\GitU\\Proyecto TDD\\TDD_Factorial\\FactorialLib\\FactorialLib.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\MetodologiasAgiles\\Proyecto-TDD\\TDD_Factorial\\FactorialLib\\FactorialLib.csproj",
       "projectName": "FactorialLib",
-      "projectPath": "C:\\Users\\ramir\\GitU\\Proyecto TDD\\TDD_Factorial\\FactorialLib\\FactorialLib.csproj",
-      "packagesPath": "C:\\Users\\ramir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ramir\\GitU\\Proyecto TDD\\TDD_Factorial\\FactorialLib\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Documents\\MetodologiasAgiles\\Proyecto-TDD\\TDD_Factorial\\FactorialLib\\FactorialLib.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\MetodologiasAgiles\\Proyecto-TDD\\TDD_Factorial\\FactorialLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ramir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
